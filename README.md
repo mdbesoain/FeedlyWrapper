@@ -1,4 +1,4 @@
-# FeedlyWrapper
+#  ![alt text](https://github.com/mdbesoain/FeedlyWrapper/raw/master/Feedly/Feedly/Assets/AppList/AppList.targetsize-40_altform-unplated.png "icono")FeedlyWrapper
 
 ![alt text]( https://github.com/mdbesoain/FeedlyWrapper/raw/master/Feedly/Feedly/images/screenshot.PNG "Screenshot")
 
