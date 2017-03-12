@@ -16,19 +16,19 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>467DADB5B0AE4F4F885F6326FE8D859691B039DE9E7B962B59835195890670C6</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>6bb68709-d580-491b-8c7e-eb23622d8375_1.0.0.0_neutral__d3t976aemgfvr</RegisteredPackageMoniker>
+    <RegisteredManifestChecksum>1A8E99038F4C465B9D4B99FEAB6CEF1E810F63947714681BF1761F3159588BBA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6bb68709-d580-491b-8c7e-eb23622d8375_1.0.1.0_neutral__d3t976aemgfvr</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>6bb68709-d580-491b-8c7e-eb23622d8375_d3t976aemgfvr!App</RegisteredUserModeAppID>
     <RegisteredPackageID>6bb68709-d580-491b-8c7e-eb23622d8375</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=mdbesoain</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredVersion>1.0.1.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-03-12T20:50:07.434</Modified>
+      <Modified>2017-03-12T21:49:22.259</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -407,7 +407,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-03-12T20:50:07.184</Modified>
+      <Modified>2017-03-12T21:49:22.043</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

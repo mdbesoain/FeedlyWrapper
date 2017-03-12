@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="6bb68709-d580-491b-8c7e-eb23622d8375" Version="1.0.0.0" Publisher="CN=mdbesoain" ProcessorArchitecture="neutral" />
+  <Identity Name="6bb68709-d580-491b-8c7e-eb23622d8375" Version="1.0.1.0" Publisher="CN=mdbesoain" ProcessorArchitecture="neutral" />
   <mp:PhoneIdentity PhoneProductId="6bb68709-d580-491b-8c7e-eb23622d8375" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Feedly</DisplayName>

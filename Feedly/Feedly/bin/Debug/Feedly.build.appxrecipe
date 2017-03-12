@@ -316,7 +316,7 @@
     <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\images\Wide310x150Logo.scale-200.png">
       <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

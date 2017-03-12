@@ -13,4 +13,4 @@ C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\qualifiers.txt
 C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\qualifiers.txt.intermediate
 C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bld\Debug\ProjectArchitectures.txt
-C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\resources.pri
+C:\Users\mdbesoain\Home\workspace\Feedly\Feedly\Feedly\bin\Debug\ReverseMap\resources.pri
