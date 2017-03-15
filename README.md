@@ -11,7 +11,8 @@ Wrapper for the WebClient of [Feedly®](https://feedly.com/) news reader, using 
 To run this app you need to have Windows 10® installed on your computer. The app was not tested on Windows 8, so functionality is not guaranteed.
 
 ### Installation
-To install double click Feedly_1.0.1.0_AnyCPU
+Install the Feedly_1.0.1.0_AnyCPU.cer Certificate  following the steps on the [Microsoft Technet guide](https://technet.microsoft.com/en-us/library/dd441378(office.13).aspx) or from the [PDF file attached inside the zip folder](https://github.com/mdbesoain/FeedlyWrapper/raw/master/Feedly/Feedly/AppPackages/certificateInstall.pdf).
+Finally, to install the app double click Feedly_1.0.1.0_AnyCPU.appxbundle file.
 
 ### Download
 
